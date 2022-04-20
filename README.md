@@ -1,5 +1,9 @@
+<p align="center">
+ <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/ed6aee74b1b8c61b67dbbf50a6a8a0f1e9bcbea4e2db7eff11414aca35b028c0/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f313932303334382f73637265656e73686f74732f343333323634312f73686f7430392e676966" alt="Python" height="150" style="vertical-align:top; margin:4px"> </a>
+</p>
+
 <h3 align="center">Student @ <a href="https://bitwardha.ac.in/"> Bajaj Institute of Technology, Wardha</a> </h3>
-  <h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
   - 🔭 I’m currently working on **Whether Forcast App**
   - 🌱 I’m currently learning **Flutter**
