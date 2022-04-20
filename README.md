@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/ed6aee74b1b8c61b67dbbf50a6a8a0f1e9bcbea4e2db7eff11414aca35b028c0/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f313932303334382f73637265656e73686f74732f343333323634312f73686f7430392e676966" alt="Python" height="150" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/ed6aee74b1b8c61b67dbbf50a6a8a0f1e9bcbea4e2db7eff11414aca35b028c0/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f313932303334382f73637265656e73686f74732f343333323634312f73686f7430392e676966" alt="Python" height="400" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 <h3 align="center">Student @ <a href="https://bitwardha.ac.in/"> Bajaj Institute of Technology, Wardha</a> </h3>
@@ -11,9 +11,9 @@
   - 📫 Reach me at **khodevedanti@gmail.com**
 
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+
+ <a href="https://www.linkedin.com/in/vedanti-khode-0a2763210" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+
 </p>
 
 <br />
